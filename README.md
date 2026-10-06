@@ -1,4 +1,4 @@
-# Agent Expect Driven Development Template
+# Agent Spec Driven Development Template
 
 A reusable baseline for agentic, specification-driven development. Start with the owner's intent, turn it into reviewable specifications, approve the scope, then implement and verify against explicit expectations.
 
